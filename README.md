@@ -1,2 +1,3 @@
 # hello-world
-My first repositos i a trialry
+My first repository
+but added this this additional line
